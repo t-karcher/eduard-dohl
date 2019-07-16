@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Eduard Dohl
 tagline:          'Erinnerungen'
 description:      'Erinnerungen an Kindheit, Jugend, Lehr- und Wanderjahre, Junge Ehe, Familiengeschichten und Hohes Alter.'
-url:              http://hyde.getpoole.com
+url:              https://t-karcher.github.io/eduard-dohl
 baseurl:          https://t-karcher.github.io/eduard-dohl
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Thomas Karcher'
+  url:            https://thomas-karcher.de
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/t-karcher/eduard-dohl
