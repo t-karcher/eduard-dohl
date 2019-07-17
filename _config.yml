@@ -21,5 +21,9 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
+theme:            "hyde"
+params:
+  themeColor:     "theme-base-09"
+
 github:
   repo:           https://github.com/t-karcher/eduard-dohl
