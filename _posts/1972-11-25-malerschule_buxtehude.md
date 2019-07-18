@@ -3,8 +3,6 @@ layout: post
 title: "Malerschule in Buxtehude"
 ---
 
-# Malerschule in Buxtehude
-
 Nun möchte ich zu meinem Aufenthalt 6 Monate Wintersemester in Buxtehude zurückkommen. In der Schule war akademische Freiheit, man konnte zur Arbeit und Vorlesungen kommen und gehen wie man wollte. Anwesenheit wurde nicht kontrolliert. Unsere einzige weibliche Studentin hieß Susi und war aus Dänemark. Ihre Staffelei stand neben meinem Arbeitsplatz. Anfänglich ging es mit der Verständigung nicht so leicht, aber bald hatten wir uns aneinander gewöhnt und konnten uns mit deutsch, dänisch und plattdeutsch ganz gut verständigen. Wir waren immer sehr fleißig bei der Arbeit und deshalb kamen auch oft die Lehrkräfte zur Korrektur und gaben uns neue Aufgaben und Übungen auf. Wenn ein Bogen vollgemalt war halfen wir uns gegenseitig, einen neuen schön glatt auf unseren Holzrahmen einzuspannen. 
 
 Jeden Sonnabend hatten wir Kommers in unserem Malerklub Ornament. Es wurden da Studentenlieder gesungen und begabte Kollegen belebten den Abend mit originellen Vorträgen, die immer die Heiterkeit und Frohsinn belebten. Gekneipt wurde nach Leipziger Comment und der Präsident und Fuchsmajor leiteten den Abend.
