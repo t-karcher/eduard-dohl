@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Wanderjahre in Heilbronn"
+title: "Beginn der Wanderjahre in Heilbronn am Neckar"
 ---
-
-# Beginn der Wanderjahre in Heilbronn am Neckar
 
 Nun folgte der 2. Abschnitt meines Lebens, die Wanderschaft. In Buxtehude trugen wir ... seidene Studentenmützen, die wir auch beim Biertrinken in den Wirtschaften auf dem Kopfe behielten. Am Rande hatten die Mützen rot-silber Couleur und oben war mit roter Seide unser Studentzirkel aufgestickt, was uns unsere Freundinnen besorgen mußten. Unser Kürschnergeselle lernte mir das Abziehen der Pelze von den vielen ..., Iltissen, ... die immer in unserem Laden angekauft wurden, dafür bekam ich 25 Pfennig für jedes Pelzchen, was ich sehr gut gebrauchen konnte, da jeden Monat, wenn ich meine Miete und Mittagstisch bezahlt hatte, noch sehr wenig für andere Zwecke übrig blieb. Wir hatten auch einen Rauchclub Blaue Wolke. Einige Male fanden wir uns in unserem Rauchzimmer in der Marktschänke ein. Jeder hatte eine lange Tabakpfeife mit einem Porzellankopf, die bis zum Stubenboden reichte. Und auch dem Tisch stand eine kleine Holztruhe mit Tabak zur allgemeinen Bedienung. Dazu wurde nur Grog getrunken, den sich jeder nach seinem Geschmack selbst mischen konnte. Auf dem Tisch stand ein Teekessel mit heißem Wasser, unter dem immer eine Spiritusflamme brannte, ... 3 Flaschen mit Arrak, Rum und Kümmel und Zucker und damit konnte man nach seinem Geschmack seinen Grog mischen.
 
