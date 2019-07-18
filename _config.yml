@@ -10,6 +10,7 @@ tagline:          'Erinnerungen'
 description:      'Erinnerungen an Kindheit, Jugend, Lehr- und Wanderjahre, Junge Ehe und Hohes Alter.'
 url:              https://t-karcher.github.io/eduard-dohl
 baseurl:          /eduard-dohl
+gems:             [jekyll-paginate-v2]
 
 author:
   name:           'Thomas Karcher'
