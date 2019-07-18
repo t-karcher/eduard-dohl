@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "24. November 1972: 80. Geburtstag"
+source-pages: "1 - 5"
 ---
 
 6:30 Uhr Wecken.
