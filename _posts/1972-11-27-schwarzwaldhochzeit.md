@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hochzeit im Schwarzwald"
+title: "Eine Hochzeit im Schwarzwald"
 ---
-
-# Eine Hochzeit im Schwarzwald
 
 Nun hatten wir Gelegenheit, an einer Hochzeit teilzunehmen, die in unserem Wohnort stattfand, an welcher sich das ganze Dorf beteiligte. Da wir nun bekannt geworden waren mit den Leuten bekamen auch wir eine Einladung zu dieser Hochzeit.
 
