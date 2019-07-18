@@ -3,8 +3,6 @@ layout: post
 title: "24. November 1972: 80. Geburtstag"
 ---
 
-# 24. November 1972: 80. Geburtstag
-
 6:30 Uhr Wecken.
 Morgengruß der Hauskapelle.
 Violine Christa, Bratsche Renate, Cello Jutta.
