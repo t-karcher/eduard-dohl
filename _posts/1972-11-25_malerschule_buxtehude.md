@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Malerschule in Buxtehude"
+---
+
+# Malerschule in Buxtehude
+
+Nun möchte ich zu meinem Aufenthalt 6 Monate Wintersemester in Buxtehude zurückkommen. In der Schule war akademische Freiheit, man konnte zur Arbeit und Vorlesungen kommen und gehen wie man wollte. Anwesenheit wurde nicht kontrolliert. Unsere einzige weibliche Studentin hieß Susi und war aus Dänemark. Ihre Staffelei stand neben meinem Arbeitsplatz. Anfänglich ging es mit der Verständigung nicht so leicht, aber bald hatten wir uns aneinander gewöhnt und konnten uns mit deutsch, dänisch und plattdeutsch ganz gut verständigen. Wir waren immer sehr fleißig bei der Arbeit und deshalb kamen auch oft die Lehrkräfte zur Korrektur und gaben uns neue Aufgaben und Übungen auf. Wenn ein Bogen vollgemalt war halfen wir uns gegenseitig, einen neuen schön glatt auf unseren Holzrahmen einzuspannen. 
+
+Jeden Sonnabend hatten wir Kommers in unserem Malerklub Ornament. Es wurden da Studentenlieder gesungen und begabte Kollegen belebten den Abend mit originellen Vorträgen, die immer die Heiterkeit und Frohsinn belebten. Gekneipt wurde nach Leipziger Comment und der Präsident und Fuchsmajor leiteten den Abend.
+
+Jeden Sonntag fand ein Kränzchen in unserem Malerklub statt, wo von 2 Uhr bis 8 Uhr getanzt wurde. Da nun ... von uns nicht tanzen konnten, wurde ein Tanzlehrer bestellt, der 2x in der Woche mit dem Motorrad kam, um uns die gebräuchlichsten Tänze Walzer, Polka, Rheinländer und einige andere zu erlernen. Ich hatte meine 1. Freundin kennengelernt, sie war einige Monate jünger als ich, konnt aber so schön tanzen und so lernte ich in kurzer Zeit gut tanzen. Sie hieß Frida von Holden und war ein sehr schönes Mädchen, und wir hatten uns sehr lieb. Die schönsten Stunden waren unsere Abendspaziergänge in den Anlagen, wo wir uns sehr viel von Liebe zuflüsterten. Aber alles ist vergänglich, im 2. Wintersemester hatte ich mir eine neue Freundin angeschafft. Sie hieß Erna Brünken und war auch sehr lieb. Meine Wohnung hatte ich bei dem Kürschnermeister und Mützenmacher Gerhard Bund, der einen schönen Laden mit Pelzen und Herrenartikeln wie Krawatten und Selbstbinder Studentenmützen zu verkaufen hatte.
+
+Das Mädchen, welches mein Zimmer in Ordnung hielt, mein Bett machte und einheizte, hieß Grete Matthes und war eine Nichte von Herrn Bund. Sie war genauso alt wie ich und wir feierten unseren Geburtstag am 24. November bis spät in die Nacht hinein bei Kaffee, Kuchen und 1 Flasche Wein in Gesellschaft eines Kürschner- und Mützenmachergesellen. Jeden Sonntag machte ich mit meiner neuen Freundin einen Spaziergang in das Wald-Café und Tanzlokal Wachtelburg, wo jeden Sonntag getanzt wurde bis nachts 12 Uhr. Das Publikum bestand meistens aus Malerschülern und Brautechnikern. Um 12 Uhr, wenn die Musiker einpackten, wanderten wir dann eng umschlungen mit unseren Mädchen 1 Std. einsame Waldwege zurück nach Buxtehude, wo wir uns dann von unseren Freundinnen mit vielen Gutenachtwünschen und Küsschen trennten und unsere Wohnung aufsuchten.
+
+Nach Semesterschluss nahm ich herzlichen Abschied von meiner Freundin und kehrte nach Meiningen zurück und machte meine Facharbeiterprüfung, die ich mit "sehr gut" bestand.
