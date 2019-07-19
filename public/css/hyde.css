@@ -118,7 +118,7 @@ a.sidebar-nav-item:focus {
 
 .footnotes {
   border-left: 3px solid black;
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 @media (min-width: 48em) {
