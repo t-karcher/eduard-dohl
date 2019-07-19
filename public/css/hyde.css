@@ -118,6 +118,7 @@ a.sidebar-nav-item:focus {
 
 .footnotes {
   border-left: 3px solid black;
+  padding: 6px;
   background-color: #eee;
 }
 
